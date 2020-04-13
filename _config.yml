@@ -1,11 +1,11 @@
 # Site settings
 author: Kaila Kay
-title: 
+title: Journey Through Data Science
 header-img: img/home-bg.png
 email: kekay0528@gmail.com
 copyright_name: Kaila Kay
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A documented tale of my journey through DS
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: KailaKay11
 github_username:  kailakay
