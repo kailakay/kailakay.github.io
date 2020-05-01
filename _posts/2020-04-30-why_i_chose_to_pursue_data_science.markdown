@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Chose to Pursue Data Science"
-date:       2020-05-01 02:19:39 +0000
+date:       2020-04-30 22:19:40 -0400
 permalink:  why_i_chose_to_pursue_data_science
 ---
 
